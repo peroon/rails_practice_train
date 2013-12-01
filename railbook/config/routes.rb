@@ -4,6 +4,7 @@ Railbook::Application.routes.draw do
 
   match "hello" => "hello#index", via: [:get, :post]
   match "hello/view" => "hello#view", via: [:get, :post]
+  match "hello/list" => "hello#list", via: [:get, :post]
 
 
   # The priority is based upon order of creation: first created -> highest priority.

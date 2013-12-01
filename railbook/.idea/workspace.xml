@@ -26,7 +26,16 @@
       <file leaf-file-name="hello_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/hello_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="9" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="13" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/hello/list.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="10" selection-start="412" selection-end="412" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
@@ -50,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="14" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
+            <state line="6" column="34" selection-start="223" selection-end="223" vertical-scroll-proportion="0.10067114" vertical-offset="0" max-vertical-offset="1050">
               <folding />
             </state>
           </provider>
@@ -68,11 +77,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="books.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="books.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/fixtures/books.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="9" selection-start="321" selection-end="321" vertical-scroll-proportion="0.26845637" vertical-offset="0" max-vertical-offset="894">
-              <folding />
+            <state line="17" column="9" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <folding>
+                <marker date="1385880408000" expanded="true" signature="88:205" placeholder="one:" />
+                <marker date="1385880408000" expanded="true" signature="206:322" placeholder="two:" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,11 +99,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/controllers/hello_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/hello/view.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/test/fixtures/books.yml" />
+        <option value="$PROJECT_DIR$/app/controllers/hello_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/hello/list.html.erb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
       </list>
     </option>
   </component>
@@ -504,7 +517,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32945454" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -558,23 +571,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/hello_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="290" selection-end="290" vertical-scroll-proportion="0.22413793" vertical-offset="0" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="14" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
@@ -586,9 +585,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://RailsDependency/#railbook">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>RailsDependency</ID>
+          <OriginalElement>#railbook</OriginalElement>
+          <nodes>
+            <node x="" y="">Book</node>
+            <node x="" y="">Sample</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="110.5" y="126.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Association fields</Category>
+            <Category>Migration fields</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/fixtures/books.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="321" selection-end="321" vertical-scroll-proportion="0.26845637" vertical-offset="0" max-vertical-offset="894">
+        <state line="17" column="9" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding>
+            <marker date="1385880408000" expanded="true" signature="88:205" placeholder="one:" />
+            <marker date="1385880408000" expanded="true" signature="206:322" placeholder="two:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/hello_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/hello/list.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="10" selection-start="412" selection-end="412" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="34" selection-start="223" selection-end="223" vertical-scroll-proportion="0.10067114" vertical-offset="0" max-vertical-offset="1050">
           <folding />
         </state>
       </provider>
