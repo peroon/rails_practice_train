@@ -1,6 +1,9 @@
 Railbook::Application.routes.draw do
   resources :samples
-  resources :hello
+  #resources :hello
+
+  match "hello" => "hello#index", via: [:get, :post]
+  match "hello/view" => "hello#view", via: [:get, :post]
 
 
   # The priority is based upon order of creation: first created -> highest priority.
