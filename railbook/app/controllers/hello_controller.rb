@@ -1,6 +1,6 @@
 class HelloController < ApplicationController
   def index
-    render :text => 'hello rails'
+    render :text => 'hello rails ' + AUTHOR
   end
 
   def view
