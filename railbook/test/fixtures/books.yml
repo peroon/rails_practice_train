@@ -1,17 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  isbn: isbn...1
+  isbn: MyString
   title: MyString
-  price: 100
-  publish: publish MyString
-  published: 2013-12-01
+  price: 1
+  publish: MyString
+  published: 2013-12-02
   cd: false
 
 two:
-  isbn: isbn...2
+  isbn: MyString
   title: MyString
-  price: 200
-  publish: publish MyString2
+  price: 1
+  publish: MyString
   published: 2013-12-02
-  cd: true
+  cd: false

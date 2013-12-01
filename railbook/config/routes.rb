@@ -1,6 +1,8 @@
 Railbook::Application.routes.draw do
+  resources :books
+
   resources :samples
-  #resources :hello
+  resources :books
 
   match "hello" => "hello#index", via: [:get, :post]
   match "hello/view" => "hello#view", via: [:get, :post]
