@@ -1,6 +1,7 @@
 Railbook::Application.routes.draw do
-  resources :books
+  root 'hello#index'
 
+  resources :books
   resources :samples
   resources :books
 
