@@ -19,6 +19,7 @@ Railbook::Application.routes.draw do
   match "hello/aaa" => "hello#aaa", via: [:get, :post]
 
   match "design" => "design#index", via: [:get, :post]
+  match "design/font_awesome" => "design#font_awesome", via: [:get, :post]
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

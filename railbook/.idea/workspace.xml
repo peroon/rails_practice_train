@@ -108,10 +108,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="26" selection-start="459" selection-end="459" vertical-scroll-proportion="0.3444317" vertical-offset="0" max-vertical-offset="1245">
+            <state line="21" column="45" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font_awesome.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/design/font_awesome.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="32" selection-start="793" selection-end="794" vertical-scroll-proportion="0.29126215" vertical-offset="0" max-vertical-offset="824">
               <folding />
             </state>
           </provider>
@@ -144,6 +153,7 @@
         <option value="$PROJECT_DIR$/app/controllers/design_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/design/index.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/design/font_awesome.html.erb" />
       </list>
     </option>
   </component>
@@ -749,7 +759,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="26" selection-start="459" selection-end="459" vertical-scroll-proportion="0.3444317" vertical-offset="0" max-vertical-offset="1245">
+        <state line="21" column="45" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/design/font_awesome.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="32" selection-start="793" selection-end="794" vertical-scroll-proportion="0.29126215" vertical-offset="0" max-vertical-offset="824">
           <folding />
         </state>
       </provider>
